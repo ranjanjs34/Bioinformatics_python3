@@ -60,4 +60,4 @@ print("GC % in Bio Python but in rounded form:", round(gc), "%")
 #Method 1
 print("The GC percentage using Self-Defined function upt two decimal places:", format(gc_content(dna1),".2f"),"%")
 #Method  2
-print("GC % in Bio Python but in upto two decima places:", round(gc, 2), "%")
+print("GC % in Bio Python but in upto two decimal places:", round(gc, 2), "%")
