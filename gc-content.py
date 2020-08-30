@@ -23,7 +23,7 @@ print("The GC-Content in percentage :", gc_per, "%")
 
 
 
-#Method 2: calculation of the ngc percentage using function
+#Method 2: calculation of the GC percentage using function
 def gc_content(x):
 	gc_dna= x.count('G')+x.count('C')
 	dna_len=len(x)
